@@ -14,7 +14,7 @@ class MyTabBarLAYOUT extends StatelessWidget {
             backgroundColor: Color.fromRGBO(12, 69, 122, 1),
             title: Center(
               child: Text(
-                "Minios Store",
+                "Minions Store",
                 style: TextStyle(
                     letterSpacing: 2,
                     fontSize: 20,
